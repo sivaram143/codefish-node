@@ -2,6 +2,7 @@
   "name": "codefish",
   "description": "A simple node.js app used in Codeship screencasts.",
   "version": "0.0.1",
+  "private": true,
   "engines": {
     "node": "0.10.x",
     "npm": "1.2.x"
